@@ -28,7 +28,7 @@ def warmUpExercise(a):
 
 # 2
 
-with open('ex1/ex1data1.txt',"r") as f:
+with open('data/ex1data1.txt',"r") as f:
     data1_x = []
     data1_y = []
     lines = f.readlines()
